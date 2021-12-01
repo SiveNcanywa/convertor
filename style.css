@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://picsum.photos/seed/picsum/200/300);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.text{
+    border: solid;
+    background-color:white;
+    width: 300px;
+    height: 200px;
+
+}
+
+ .head{
+     display: flex;
+     justify-content: center;
+ }
+.submit{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+ .btn{
+
+     color:white;
+ }
+ .main{
+     display: flex;
+     justify-content: center;
+ }
+
+ /* .box{
+     border: solid;
+     background-color: thistle;
+
+ } */
+
+ .button{
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    background-color: black;
+ }
